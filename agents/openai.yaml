@@ -1,0 +1,4 @@
+interface:
+  display_name: "星际体验设计"
+  short_description: "设计真实立体星空、可中断的星际航行与安静阅读交互，并验证导航和内容安全"
+  default_prompt: "使用 $interstellar-experience，为现有星系网站设计连续航行、安静阅读与原路返航，并保持交互流畅。"
